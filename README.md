@@ -19,7 +19,7 @@ Fractol es un proyecto gráfico que genera y muestra fractales utilizando la bib
 - **Escape :** Salir del programa.
   *El programa debe cerrarse sin ningun tipo de falla*
   
-  #### Ejecute el programa con una de las siguientes opciones:
+  ### Ejecute el programa con una de las siguientes opciones:
 - **Mandelbrot:** ./fractol mandelbrot
 - **Julia:** ./fractol julia <real_part> <imaginary_part>
 - **Barco en llamas:** ./fractol burningship
