@@ -23,7 +23,6 @@ int	main(int ac, char **av)
 			|| !ft_strncmp(av[1], "burningship", 11)))
 	{
 		fractal.name = av[1];
-		printf("Fractal name: %s\n", fractal.name);
 	}
 	else if (ac == 4 && !ft_strncmp(av[1], "julia", 5))
 	{
